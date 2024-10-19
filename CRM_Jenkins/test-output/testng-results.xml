@@ -5,12 +5,12 @@
       <![CDATA[Created Organization Successfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-10-18T19:44:11 IST" name="Default suite" finished-at="2024-10-18T19:44:11 IST" duration-ms="136">
+  <suite started-at="2024-10-19T19:20:07 IST" name="Default suite" finished-at="2024-10-19T19:20:07 IST" duration-ms="151">
     <groups>
     </groups>
-    <test started-at="2024-10-18T19:44:11 IST" name="Default test" finished-at="2024-10-18T19:44:11 IST" duration-ms="136">
+    <test started-at="2024-10-19T19:20:07 IST" name="Default test" finished-at="2024-10-19T19:20:07 IST" duration-ms="151">
       <class name="organization.CreateOrgTest">
-        <test-method signature="createOrg()[pri:0, instance:organization.CreateOrgTest@563f38c4]" started-at="2024-10-18T19:44:11 IST" name="createOrg" finished-at="2024-10-18T19:44:11 IST" duration-ms="25" status="PASS">
+        <test-method signature="createOrg()[pri:0, instance:organization.CreateOrgTest@69e153c5]" started-at="2024-10-19T19:20:07 IST" name="createOrg" finished-at="2024-10-19T19:20:07 IST" duration-ms="30" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Created Organization Successfully]]>
